@@ -1,13 +1,13 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: albums
+    name: Albums
+  - slug: tracks
+    name: Tracks
+  - slug: sample
+    name: Sample Packs
+  - slug: Tuts
+    name: Tutorials
+  - slug: devices
+    name: Devices
+  - slug: other
+    name: Other
